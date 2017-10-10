@@ -1,2 +1,3 @@
 # hello-world
-just the helloworld
+Hello humans!
+quanshao, I'm a student, I like cloudcomputing!
